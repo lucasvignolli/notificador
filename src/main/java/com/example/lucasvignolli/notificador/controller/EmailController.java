@@ -1,6 +1,5 @@
 package com.example.lucasvignolli.notificador.controller;
 
-
 import com.example.lucasvignolli.notificador.business.EmailService;
 import com.example.lucasvignolli.notificador.business.dto.TarefasDTO;
 import lombok.RequiredArgsConstructor;
